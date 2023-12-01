@@ -1,0 +1,5 @@
+n= int(input('number:'))
+b= bin(n)
+o= oct(n)
+h= hex(n)
+print(f'binary: {b}\noctadecimal: {o}\nhexadecimal: {h}')
